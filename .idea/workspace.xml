@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4eb70e2-e75f-4ecb-a828-38c3ad676eb4" name="Changes" comment="[혜승] 프로그래머스 레벨1 나누어떨어지는 숫자 배열">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers_230519/Absolutes_boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers_230519/Absolutes_boolean_answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers_230519/NumberDivisor_answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers_230519/PhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers_230519/NumberDivisor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,28 +39,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="NumberDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberDivisor" />
+}]]></component>
+  <component name="RunManager" selected="Application.Absolutes_boolean">
+    <configuration name="Absolutes_boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers_230519.Absolutes_boolean" />
       <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers_230519.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers_230519.NumberDivisor" />
+      <module name="codingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberDivisor_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers_230519.NumberDivisor_answer" />
+      <module name="codingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers_230519.PhoneNumber" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers_230519.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Absolutes_boolean" />
+        <item itemvalue="Application.PhoneNumber" />
+        <item itemvalue="Application.NumberDivisor_answer" />
         <item itemvalue="Application.NumberDivisor" />
       </list>
     </recent_temporary>
@@ -69,7 +115,7 @@
       <updated>1683983077204</updated>
       <workItem from="1683983078224" duration="1093000" />
       <workItem from="1684369725925" duration="8000" />
-      <workItem from="1684375984149" duration="3250000" />
+      <workItem from="1684375984149" duration="15547000" />
     </task>
     <task id="LOCAL-00001" summary="ㅎㅎ">
       <created>1683983211426</created>
@@ -113,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684384817359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[혜승] 프로그래머스 레벨1 나누어떨어지는 숫자 배열">
+      <created>1684385633366</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684385633366</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

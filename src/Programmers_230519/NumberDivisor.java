@@ -1,3 +1,5 @@
+package Programmers_230519;
+
 import java.util.Arrays;
 
 public class NumberDivisor {

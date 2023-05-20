@@ -19,8 +19,8 @@ public class MinNumberRemove_for {
             for (int a : arr)
                 list.add(a);
             // 최소값 삭제
-            list.remove(Collections.min(list));
-            answer = new int[arr.length - 1];
+            list.remove(Collections.min(list));//list에서 최소값 삭제
+            answer = new int[arr.length - 1]; //배열 길이보다 하나 작게 새로운 배열 생성
             for (int i = 0; i < list.size(); i++)
                 answer[i] = list.get(i);
         }

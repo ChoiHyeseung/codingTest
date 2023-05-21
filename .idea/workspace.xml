@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4eb70e2-e75f-4ecb-a828-38c3ad676eb4" name="Changes" comment="[혜승] 프로그래머스 230521">
-      <change afterPath="$PROJECT_DIR$/src/Programmers/LessMoney.java" afterDir="false" />
+    <list default="true" id="c4eb70e2-e75f-4ecb-a828-38c3ad676eb4" name="Changes" comment="[혜승] 프로그래머스">
+      <change afterPath="$PROJECT_DIR$/src/Programmers/StringBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/StringBasic_Exception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/Absolutes_boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Absolutes_boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/Absolutes_boolean_answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Absolutes_boolean_answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/DescString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/DescString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/DescString_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/DescString_StringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/DotProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/Factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Factor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/MidWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/MidWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/MidWord_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/MidWord_substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/MinNumberRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/MinNumberRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/MinNumberRemove_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/MinNumberRemove_for.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/NoneNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/NoneNumberSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/NoneNumberSum_answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/NoneNumberSum_answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/NumberDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/NumberDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/NumberDivisor_answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/NumberDivisor_answer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers_230519/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers/LessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers/LessMoney.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,35 +53,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factor">
-    <configuration name="DescString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.DescString" />
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringBasic_Exception">
     <configuration name="DescString_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.DescString_StringBuilder" />
-      <module name="codingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.DotProduct" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +80,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.Pattern" />
+    <configuration name="LessMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.LessMoney" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.StringBasic" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBasic_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.StringBasic_Exception" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBasic_Exception" />
+        <item itemvalue="Application.StringBasic" />
+        <item itemvalue="Application.LessMoney" />
         <item itemvalue="Application.Factor" />
         <item itemvalue="Application.DescString_StringBuilder" />
-        <item itemvalue="Application.DescString" />
-        <item itemvalue="Application.DotProduct" />
-        <item itemvalue="Application.Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +141,7 @@
       <workItem from="1684369725925" duration="8000" />
       <workItem from="1684375984149" duration="18768000" />
       <workItem from="1684575251595" duration="6018000" />
-      <workItem from="1684602134714" duration="19831000" />
+      <workItem from="1684602134714" duration="25828000" />
     </task>
     <task id="LOCAL-00001" summary="ㅎㅎ">
       <created>1683983211426</created>
@@ -241,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684672547578</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[혜승] 프로그래머스">
+      <created>1684672858092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684672858092</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +248,7 @@
     <MESSAGE value="[혜승] 프로그래머스 230519" />
     <MESSAGE value="[혜승] 프로그래머스 230520" />
     <MESSAGE value="[혜승] 프로그래머스 230521" />
-    <option name="LAST_COMMIT_MESSAGE" value="[혜승] 프로그래머스 230521" />
+    <MESSAGE value="[혜승] 프로그래머스" />
+    <option name="LAST_COMMIT_MESSAGE" value="[혜승] 프로그래머스" />
   </component>
 </project>

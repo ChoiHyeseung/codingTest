@@ -15,7 +15,7 @@ public class PhoneNumber {
         return String.valueOf(digits);
         // 그냥 digits.toString()을 하면 배열의 식별자를 문자열로 반환하여 원하는 결과를 얻을 수 없음
         /* char배열을 문자열로 반환하려면,
-        String.valueOsf(digits);
+        String.valueOf(digits);
         new String(digits); 를 사용해야함
          */
         // String 배열을 문자열로 변환하려면 String.join(구분자, 배열);

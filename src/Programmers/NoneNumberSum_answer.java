@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 //없는 숫자 더하기
 //다른 사람 풀이
 

@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 
 public class DotProduct {
     public static int solution(int[] a, int[] b){

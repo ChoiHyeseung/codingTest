@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 
 public class Absolutes_boolean_answer {
     public static int solution(int[] absolutes, boolean[] signs){

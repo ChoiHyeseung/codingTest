@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 
 // 프로그래머스 레벨 1 음양 더하기
 public class Absolutes_boolean {

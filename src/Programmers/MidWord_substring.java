@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 //가운데 글자 가져오기
 //다른 사람 풀이
 

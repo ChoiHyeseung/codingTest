@@ -1,4 +1,4 @@
-package Programmers_230519;
+package Programmers;
 
 import java.util.Arrays;
 

@@ -1,5 +1,6 @@
 package Programmers;
-
+//문자열 다루기 기본
+//다른 사람 풀이
 public class StringBasic_Exception {
     public static boolean solution(String s) {
         if(s.length() == 4 || s.length() == 6){
@@ -7,7 +8,7 @@ public class StringBasic_Exception {
                 int x = Integer.parseInt(s); //string을 int로 변환
                 return true;
             } catch(NumberFormatException e){ //문자열을 숫자로 변활할 때 숫자가 아니라면 예외 발생
-                return false;
+                return false; //false 리턴
             }
         }
           else return false;
